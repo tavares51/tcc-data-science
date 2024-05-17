@@ -12,4 +12,7 @@ Até onde ela pode chegar ?
 
 ## Instalação LATEx
 [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+<br>
 [Strawberry Perl](https://strawberryperl.com/)
+<br>
+[LATEX](https://miktex.org/download)
