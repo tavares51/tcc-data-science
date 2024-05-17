@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1715912792.29778 "c:/Users/vhst1/OneDrive/Documents/facens/tcc/tcc-data-science/document.tex" "document.pdf" "document" 1715912792.85731 0
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
+  "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1714423267 29785 470380cd55470b90fdb46d40220ba304 ""
+  "C:/Users/vhst1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715911456 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/vhst1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1715912761 24230539 91633713f2d4b872246f2e080ee3dc12 ""
+  "c:/Users/vhst1/OneDrive/Documents/facens/tcc/tcc-data-science/document.tex" 1715912792 447 dd6b421ec9896441b674b6fd9ad0434b ""
+  "document.aux" 1715912792 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "document.tex" 1715912792 447 dd6b421ec9896441b674b6fd9ad0434b ""
+  (generated)
+  "document.aux"
+  "document.log"
+  "document.pdf"
+  (rewritten before read)
